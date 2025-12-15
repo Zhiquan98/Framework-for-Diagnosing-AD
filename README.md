@@ -1,4 +1,7 @@
-# Frameworkr-for-Diagnosing-AD
-implementation of &lt;An End-to-End Multi-Task Framework Incorporating Knowledge Distillation for Diagnosing Aortic Dissection based on Non-contrast Enhanced Computed Tomography>
+# Adaptive Geometric-Attention Multi-Task Framework with Knowledge Distillation for Aortic Dissection Detection in Non-Contrast CT
+
+# Reuirements
+
+Python 3.7 and Pytorch 1.13.1 are recommended.
 
 the 'CSMF.py' file is the network main script.
