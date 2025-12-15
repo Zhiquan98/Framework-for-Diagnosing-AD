@@ -2,6 +2,10 @@
 
 # Reuirements
 
-Python 3.7 and Pytorch 1.13.1 are recommended.
+Python 3.7
+
+Pytorch 1.12.0
+
+torchvision 0.13.0
 
 the 'CSMF.py' file is the network main script.
